@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <th colspan="2" style="font-size: 16px; font-weight: 700;">My training projects</th>
+    <th colspan="2" style="font-size: 16px; font-weight: 700;">Some of my projects</th>
   </tr>
   <tr>
     <td rowspan="2" width="200"><a href="https://what-to-watch.nikasts.vercel.app/" target="_blank"><img width="100%" height="auto" src="https://raw.githubusercontent.com/NikaSts/NikaSts/master/Screenshot_WTW.png" title="What To Whatch" alt="What To Whatch"></a></td>
