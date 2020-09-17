@@ -8,7 +8,7 @@
 </td>
   </tr>
   <tr>
-    <td>Online video streaming service prototype. A user can watch videos through media player. An authtorized user can add video in the list of favorites, rate it and leave a comment.</td>
+    <td>Online video streaming service prototype. A user can watch videos through media player. An authtorized user can add a video to Favorites, rate it and leave a comment.</td>
   </tr>
   <tr>
     <td rowspan="2"><a href="https://nikasts.github.io/Big_Trip/" target="_blank"><img width="100%" height="auto" src="https://raw.githubusercontent.com/NikaSts/NikaSts/master/Screenshot_BT.png" title="Big Trip" alt="Big Trip"></a></td>
